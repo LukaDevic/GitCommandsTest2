@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppForTest2
 {
-    class NewFeature2
+    static class NewFeature2
     {
-
-    }
+        public static int Add(int a, int b)
+        {
+            return a + b;
+        }
+}
 }
