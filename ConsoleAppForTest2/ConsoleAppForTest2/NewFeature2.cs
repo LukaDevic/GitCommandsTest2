@@ -17,5 +17,10 @@ namespace ConsoleAppForTest2
         {
             return a / b;
         }
+
+        public static int NewFeature(int a, int b)
+        {
+            return 0;
+        }
 }
 }
