@@ -10,6 +10,7 @@ namespace ConsoleAppForTest2
     {
         static void Main(string[] args)
         {
+            //this is where we gona use new features when we develop them
         }
     }
 }
